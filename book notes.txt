@@ -1,0 +1,284 @@
+Fase 1
+
+Datos de entrada
+
+
+Procesos
+Calcular el valor recibido en 4 semanas
+Calcular el valor ahorrado
+Determinar si se puede comprar la maleta
+
+Datos de Salida
+
+Dinero Suficiente para la maleta
+
+Diseño del Algoritmo
+
+Ingresar el valor recibido en 4 semanas
+Sumar el valor recibido por atender la tienda
+Calcular el valor ahorrado
+Calcular cuanto le falta para la maleta
+Mostrar cuanto ahorro
+
+entero (VA)valor_ahorrado=0;
+real   (VR)valor_recibido=0,(VS)valor_4semanas=0,(VC)valor_casco=0
+
+VA=VR*VS
+
+
+
+if(total_ahorro>=1050000)
+(maleta) else
+(fin)no
+
+Fase 1
+Análisis del Problema
+
+Datos de Entrada
+
+Precio por metro cuadrado
+largo del terreno
+Ancho del terreno
+
+Procesos
+
+Calcular el Área del terreno
+Calcular el precio por metro cuadrado
+Calcular el descuento
+
+Datos de salida
+
+05/09/2025
+
+Datos de Entrada
+tres números
+
+Procesos
+
+Hallar cual es el mayor
+
+Datos de Salida
+El numero Mayor
+
+Diseño de Algoritmo
+Ingresar el 1er numero
+Ingresar el segundo numero
+Ingresar el tercer numero
+Hallar el numero mayor
+Imprimir el numero mayor
+
+
+Pseudoodigo Mayor
+
+Inicio
+  var
+     	entero nume1=0,nume2=0,nume=0
+	
+
+	Imprimir  "por favor ingrese el primer numero";
+	leer nume1;
+	Imprimir "por favor ingrese el segundo numero";
+	leer nume2	
+	Imprimir "por favor ingrese el tercer numero";
+	leer nume3;
+
+	si (nume1 > nume2) y (nume1 > nume3) entonces
+		mayor=nume1
+	fin=si
+	si (nume2 > nume3) y (nume2 > nume1) entones
+		mayor=nume2;
+	fin=si
+	si(nume3 > nume2) y (nume3 > nume1) entonces
+		mayor=nume3;
+	fin=si
+	imprimir él numero mayor es", mayor
+
+fin
+
+Prueba de escritorio
+
+
+nume1	nume2	nume3	mayor
+8	  5	  7	  8
+9	    
+6
+
+
+
+
+Pseudoodigo Mayor
+
+Inicio
+  var
+     	entero nume1=0,nume2=0,nume=0
+	
+
+	Imprimir  "por favor ingrese el primer numero";
+	leer nume1;
+	Imprimir "por favor ingrese el segundo numero";
+	leer nume2	
+	Imprimir "por favor ingrese el tercer numero";
+	leer nume3;
+
+	si (nume1 > nume2) y (nume1 > nume3) entonces
+		mayor=nume1
+ 
+	si (nume2 > nume3) y (nume2 > nume1) entones
+		mayor=nume2;
+	fin=si
+	si(nume3 > nume2) y (nume3 > nume1) entonces
+		mayor=nume3;
+	fin=si
+	imprimir él numero mayor es", mayor
+
+
+	EJERCICIO 2
+
+Datos de entrada
+Tres notas
+Nombre Materia
+Nombre estudiante
+
+Proceso
+
+Calcular el porcentaje de cada nota
+Determinar si el estudiante aprobó
+
+Date de Salida
+Mensaje de aprobado  /  reprobado
+
+Diseno de algoritmo
+
+Ingresar el nombre de la materia
+Ingresar el nombre del estudiante
+Ingresar la nota 1
+Ingresar la nota 2
+Ingresar la nota 3
+Calcular el porcentaje de cada nota
+determinar si el estudiante aprobó o reprobo
+mensaje de aprobado o reprobado
+
+
+Pseudocodigo Notas
+
+Inicio
+   var
+ 	real nota1=0, nota2=0, nota3=0,mayor=0
+	cadena nombre=" ", materia= " "	;
+
+Imprimir  "por favor ingrese el nombre de la materia";
+leer materia;
+Imprimir  "por favor ingrese el nombre del estudiante";
+leer nombre;
+Imprimir  "por favor ingrese la nota 1";
+leer nota1;
+Imprimir  "por favor ingrese la nota 2";
+leer nota2;
+Imprimir  "por favor ingrese la nota 3";
+leer nota3;
+corte1=nota1*0.30;
+corte2=nota2*0.30;
+corte4=nota3*0.40;
+nota_final=(corte1+corte2+corte3)
+si(nota_final) >= 3.0) entonces
+Imprimir ëstudiante aprobo la materia"
+sino Imprimir ëstudiante reprobo la materia"
+fin_si
+
+Fin
+
+Prueba escritorio
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calcular el precio por metro cuadrado
+Calcular el área
+
+Diseño de algoritmo
+
+Ingresar el área del terreno
+Calcular el precio por metro cuadrado
+Mostrar el precio del terreno
+Calcular si tiene descuento del 10%
+
+Pseudocodigo
+
+Inicio
+var
+
+entero area_terreno=0
+real   precio_largo=0,precio_ancho=0,descuento=0,precio_terreno=0
+
+Imprimir"por favor ingresar el área del terreno"
+Imprimir"por favor ingrese el precio del m2"
+leer área;
+preciom2=precio_largo*precio_ancho;
+precio_terreno=preciom2*area_terreno
+Descuento=precio_terreno>400m2
+
+IF(precio_terreno>400m2)
+(descuento)else
+fin
+
+Prueba de escritorio
+
+  
+Largo	Ancho	Area	Precio por m2	Total precio terreno 	DTO	PRECIO FINAL
+10	50	500	 $ 100.000 	 $ 50.000.000 	 $ 5.000.000 	 $ 45.000.000 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

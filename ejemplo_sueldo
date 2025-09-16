@@ -1,0 +1,14 @@
+sueldo=0
+aumento=0
+nuevo_sueldo=0
+
+
+sueldo=float(input("por favor ingrese el sueldo \n "))
+aumento=sueldo*0.35
+nuevo_sueldo=sueldo+aumento
+print("el aumento del sueldo es\n",aumento)
+print("el nuevo sueldo es\n",nuevo_sueldo)
+print("el sueldo anterior es\n", sueldo)
+
+      
+      
