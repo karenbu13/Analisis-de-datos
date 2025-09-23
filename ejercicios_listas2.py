@@ -6,3 +6,13 @@ for num in numeros:
         mayor = num 
 print("El numero mayor es:", mayor) 
 
+#dada la lista N= [5,9,2,7,]
+
+
+
+
+
+ 
+
+
+

@@ -28,3 +28,4 @@ resultado = promedio (7,8,9,6,5)
 print ("el promedio de la clase es:",resultado) 
 
    #solicita al usuario dos cadenas comparalas y verifica si son o no son iguales
+      
