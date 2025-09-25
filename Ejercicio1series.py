@@ -16,6 +16,13 @@ datos={
 }
 df=pd.DataFrame(datos)
 print(df)
+#muestra las primeras 2 filas
+print(df.head(2)) 
+#Accede a la columna precio y calcula el precio de todos los productos
 
+Precio_unitario=df['Precio']*df['cantidad'].sum()
+
+df['Precio_unitario']=df['Precio']*df['cantidad']
+print(df)
 
    

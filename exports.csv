@@ -1,0 +1,11 @@
+;id;ident;type;name;latitude_deg;longitude_deg;elevation_ft;continent;iso_country;iso_region;municipality;scheduled_service;icao_code;iata_code;gps_code;local_code;home_link;wikipedia_link;keywords
+0;6523;00A;heliport;Total RF Heliport;40070985;-74933689;11;;US;US-PA;Bensalem;no;;;K00A;00A;https://www.penndot.pa.gov/TravelInPA/airports-pa/Pages/Total-RF-Heliport.aspx;;
+1;323361;00AA;small_airport;Aero B Ranch Airport;38704022;-101473911;3435;;US;US-KS;Leoti;no;;;00AA;00AA;;;
+2;6524;00AK;small_airport;Lowell Field;59947733;-151692524;450;;US;US-AK;Anchor Point;no;;;00AK;00AK;;;
+3;6525;00AL;small_airport;Epps Airpark;3486479949951172;-8677030181884766;820;;US;US-AL;Harvest;no;;;00AL;00AL;;;
+4;506791;00AN;small_airport;Katmai Lodge Airport;59093287;-156456699;80;;US;US-AK;King Salmon;no;;;00AN;00AN;;;
+5;322127;00AS;small_airport;Fulton Airport;349428028;-978180194;1100;;US;US-OK;Alex;no;;;00AS;00AS;;;
+6;6527;00AZ;small_airport;Cordes Airport;34305599212646484;-11216500091552734;3810;;US;US-AZ;Cordes;no;;;00AZ;00AZ;;;
+7;6528;00CA;small_airport;Goldstone (GTS) Airport;3535474;-116885329;3038;;US;US-CA;Barstow;no;;;00CA;00CA;;https://en.wikipedia.org/wiki/Goldstone_Gts_Airport;
+8;324424;00CL;small_airport;Williams Ag Airport;39427188;-121763427;87;;US;US-CA;Biggs;no;;;00CL;00CL;;;
+9;322658;00CN;heliport;Kitchen Creek Helibase Heliport;327273736;-1164597417;3350;;US;US-CA;Pine Valley;no;;;00CN;00CN;;;
