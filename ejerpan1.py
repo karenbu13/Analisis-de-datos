@@ -28,8 +28,12 @@ print (S[['mangos', 'fresas']]) #empaquetados en una lista
 print(S[0])
 20.0
 print(S[1:3])
-
 print(S[2:])
+
+# Metodos de la serie, ignoran valores NaN
+
+S.name= 'Frutas de la compra'
+
 
 
 

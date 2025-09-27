@@ -14,7 +14,7 @@ print(df)
 #df.to_csv("exports.csv", index=False)
 #df.to_csv("exports.csv", sep=";")
 df.to_excel("exports2.xlsx", index=False)
-
+ 
 
 
 
